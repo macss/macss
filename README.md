@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @macss (Marco Antônio Chaves Soares)
+- 👀 I’m interested in web and mobile development and my recent projects are all built with React and/or React Native
+- 🌱 I’m currently learning Flutter and Dart, also I'm improving my test writing skills since it is a must have nowadays
+- 💞️ I’m looking to collaborate on any project that I feel I can really improve, most of the times I try to fix and/or improve repositories documentations or help with translations to my native language (PT-BR)
+- 📫 How to reach me: you can send me an e-mail at macsoares1@gmai.com
